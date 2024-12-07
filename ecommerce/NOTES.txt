@@ -1,0 +1,13 @@
+https://github.com/r5n-labs/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
+imp
+imn
+
+https://bootswatch.com/
+npm install react-bootstrap bootstrap
+ npm install react-router-bootstrap   
+
+https://mdbootstrap.com/docs/standard/getting-started/installation/?_gl=1*13u9gh0*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiA3sq6BhD2ARIsAJ8MRwWIacm5a1rbMZzAHO2bJyQVhijgYD334iXAKhom-EunXVmSpmId1mIaAsj-EALw_wcB
+
+https://react-bootstrap.netlify.app/docs/components/navbar
+https://cdnjs.com/libraries/font-awesome
+
